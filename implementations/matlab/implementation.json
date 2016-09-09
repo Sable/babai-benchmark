@@ -10,7 +10,15 @@
   "runner-arguments":[
     {"expand": "/experiment/input-size" }
   ],
-  "runner-argument-types": [
+  "mclab-core-runner-argument-types": [
     "'DOUBLE&1*1&REAL'"
+  ],
+  "libraries": [
+  ],
+  "dependencies": [
+    {
+        "source": "https://github.com/Sable/ostrich-matlab-implementation-common.git",
+        "destination": { "file": "./common" }
+    }
   ]
 }

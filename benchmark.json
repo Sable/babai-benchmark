@@ -3,10 +3,10 @@
    "name":"Babai CVP Benchmark",
    "short-name":"babai",
    "description":"Nearest Plane Algorithm for the Closest Vector Problem",
-   "version":"0.1.0",
+   "version":"1.0.0",
    "input-size":{
       "small":10,
-      "medium":1000,
+      "medium":2000,
       "large": 10000
    }  
 }
