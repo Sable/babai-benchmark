@@ -14,6 +14,7 @@
     "'DOUBLE&1*1&REAL'"
   ],
   "libraries": [
+    { "file": "./common/fletcherSum.m" }
   ],
   "dependencies": [
     {
